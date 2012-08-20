@@ -1,4 +1,4 @@
-# Covert mailing list discussions to put on the website
+# Convert mailing list discussions to put on the website
 
 ## JSONify list threads
 
