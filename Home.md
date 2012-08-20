@@ -1,6 +1,7 @@
-# Convert mailing list discussions to put on the website
+## Convert mailing list discussions to put on the website
+Here’s how you can help!
 
-## JSONify list threads
+### JSONify list threads
 
 1. Create a file in /points that matches the mailing list thread
 2. Run 'node buildIndexes.js' inside the repository directory
@@ -9,7 +10,7 @@
 (If you can't get the script to run, then just only create the points files, commit and push, and we’ll debug it afterwards.)
 
 
-## Progress
+### Progress
 
 Please put your name next to the ML thread you are JSONifying, then we can work through the list together. when done, strike it through, with a note 'done' behind it.
 
