@@ -19,8 +19,8 @@ Please put your name next to the ML thread you are JSONifying, then we can work 
 * (good) Flickr gives you a choice: with whom you share your photos (1) 
 * Flickr ToS & PP (3) 
 * Comparison between GitHub and Steam (2) 
-* tosdr.co-ment.com is "Not Active" (1) 
-* Standardized list of minimum ToS data point topics (2) 
+* ~~tosdr.co-ment.com is "Not Active" (1)~~ [not a data point] pantsburgh
+* ~~Standardized list of minimum ToS data point topics (2)~~ [not a data point] pantsburgh 
 * Steam - users defend and indemnify Valve (4) 
 * (bad) Wordpress.com ToS can change without notice, viewing a new ...
 * (copyright license) You License Freely Your Contributions (copyleft) (1) 
@@ -28,33 +28,33 @@ Please put your name next to the ML thread you are JSONifying, then we can work 
 * Wikipedia's Terms of Use were drafted collaboratively by the community (1) 
 * Github can suspend your service and delete your data any time for any reason (3) 
 (no subject) Brandon Howell
-* timestamps and versions (2) 
+* ~~timestamps and versions (2) ~~ [not a data point] pantsburgh
 * Re: [bad] delicious new terms 2. no right to leave the service (3) 
 * ~~Steam Subscriber Agreement & Privacy Policy (5)~~ - done
 * BitBucket TOS (1) 
 * (bad) Only VIP accounts will receive notice before potential termination (1) 
 * Wikipedia ToU & PP (1) 
 * Netflix ToU & PP (1) 
-* Please do assess Wikipedia (3) 
+* ~~Please do assess Wikipedia (3) ~~ [not a data point] pantsburgh
 * [Good] Craigslist drops exclusive license to your posts 
 * [bad] Google Chrome now forces you to use Chrome Web Store as only choice (1) 
 * GitHub's definition of cookies is… interesting (4) 
-* Idea - in addition to classification letters (6) 
+* ~~Idea - in addition to classification letters (6) ~~ [not a data point] pantsburgh
 * [Bad] Goodreads owns most of your content in perpetuity (2) 
-* Congratulations (8) 
+* ~~Congratulations (8)~~ [not a data point] pantsburgh
 * eff tosback2 (1) 
 * Salesforce/Chatter (1) 
-* EFF publishes report about companies practices regarding handing over ...
+* ~~EFF publishes report about companies practices regarding handing over ...~~ [not a data point] pantsburgh
 * Crashplan Rating? (3) 
-* http://tos-dr.info/ doesn't work in Internet Explorer apparently? (3) 
+* ~~http://tos-dr.info/ doesn't work in Internet Explorer apparently? (3)~~ [not a data point] pantsburgh 
 * [Good] The user can leave Xing without cause (2) 
 * Gravatar: Takes copyright, can transfer copyright, can sublicense (1) 
 * [Bad] Facebook give personal details to 3rd Party by default (1) 
 * [Bad] You will not provide any false personal information on Facebook (1) 
-* Chrome Browser Plugin (2) 
+* ~~Chrome Browser Plugin (2)~~ [not a data point] pantsburgh 
 * Developers specific rating for Terms of Services and policy : focus on APIs (1) 
 * Twitpic choice of law clause and choice of jurisdiction: Delaware (2) 
-* Legal eagle. (1) 
+* ~~Legal eagle. (1)~~ [not a data point] pantsburgh 
 * Idea - Privacy Watch website (tosdr@googlegroups.com) (1) 
 * [Good] Xing value the data privacy of their users 
 * [Bad] The user has to use at Xing his/her real name (1) 
@@ -101,15 +101,15 @@ Please put your name next to the ML thread you are JSONifying, then we can work 
 * Fwd: [Freedombox-discuss] UUID tracked (2) 
 * [Good] Facebook educate their users about how to be safe (7) 
 * ToS; Didn't Read & Tosback 2 [need more legal participation from US] 
-* Similar-ish project: tl;dr legal (1) 
+* ~~Similar-ish project: tl;dr legal (1) ~~ [not a data point] pantsburgh
 * Twitpic privacy policy (1) 
 * "Deleted Images" are not really deleted (1) 
 * Question: can Twitpic reduce the prescription of legal action? (1) 
 * More madness from Twitpic: indemnification from claims related to user content (1) 
 * [alert] Twitpic takes credit for user pictures (1) 
 * Fwd: Lightning Talks (1) 
-* Adding CC-BY-SA license information to .json files (1) 
-* Fwd: US-Canada statement of privacy principles (1) 
+* ~~Adding CC-BY-SA license information to .json files (1)~~ [not a data point] pantsburgh 
+* ~~Fwd: US-Canada statement of privacy principles (1)~~ [not a data point] pantsburgh 
 * tossos (3) 
 * personal data and business transfers twitter, google, delicious and al. (3) 
 * Twitpic copyright license also granted to their "partners" (1) 
