@@ -2,8 +2,8 @@
 Here’s how you can help!
 
 ### JSONify list threads
-
-1. Create a file in /points that matches the mailing list thread
+When you find something relevant in the mailing list that should become a data point:
+1. Create a file in /points that matches the mailing list thread (Please read the documentation about the JSON format for points)
 2. Run 'node buildIndexes.js' inside the repository directory
 3. Make sure the service(s) you reference in the points file exist as a json file in /services, and the topic you assign should exist in /topics
 
