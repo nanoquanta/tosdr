@@ -6,7 +6,7 @@ When you find something relevant in the mailing list that should become a data p
 
 1. Create a file in /points that matches the mailing list thread (Please read the documentation about the JSON format for points in [/points/README.md](https://github.com/didnotread/didnotread.org/blob/master/points/README.md))
 2. Run 'node buildIndexes.js' inside the repository directory
-3. Make sure the service(s) you reference in the points file exist as a json file in /services, and the topic you assign should exist in /topics
+3. Make sure the service(s) you reference in the points file exist as a json file in /services, and the topic you assign should exist in /topics (Please read the documentation about the JSON format for services in [/services/README.md](https://github.com/didnotread/didnotread.org/blob/master/services/README.md), and for [topics](https://github.com/didnotread/didnotread.org/blob/master/topics/README.md))
 
 (If you can't get the script to run, then just only create the points files, commit and push, and we’ll debug it afterwards.)
 
