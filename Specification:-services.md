@@ -38,7 +38,7 @@ It's not definite, but we're going to come up with a taxonomy to refer to legal 
 
 The name of the legal documents as used by the service.
 
-_For instance: "Terms of service" or "Terms of Use". (this should be equal to tosback's current xml docname.name)
+_For instance: "Terms of service" or "Terms of Use". (this should be equal to tosback's current xml docname.name)_
 
 #### fulltos > privacy|terms|etc. > url
 
