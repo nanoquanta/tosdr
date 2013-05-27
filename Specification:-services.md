@@ -1,6 +1,6 @@
 ## id
 
-The id is used by other files to refer to this specific file.
+The id is used by other files to refer to a specific json file.
 
 Keep it simple, lowercase. Use a "-" for any non-Az-01 character.
 
@@ -26,6 +26,38 @@ Be careful when you chose the urls, to allow subdomains or not.
 
 _For instance, blogs hosted at wordpress.com can be accessed through blogname.wordpress.com. We do not want to refer to this url when we deal with the ToS for wordpress.com. So instead, we use `"urls": ["en.wordpress.com", "(etc.)"]`_
 
+## fulltos
+
+In the future, fulltos should be deprecated. This is just here, until ToSBack works. :)
+
+### fulltos > privacy|terms|faq|security|help|legal|trademark|copyright|dmca|guidelines …
+
+It's not definite, but we're going to come up with a taxonomy to refer to legal documents, that will be used by tosback.
+
+#### fulltos > privacy|terms|etc. > name
+
+The name of the legal documents as used by the service.
+
+_For instance: "Terms of service" or "Terms of Use". (this should be equal to tosback's current xml docname.name)
+
+#### fulltos > privacy|terms|etc. > url
+
+This is the full url of the document.
+
+#### fulltos > privacy|terms|etc. > service
+
+This can be used alternatively to name and url, when you want to use the name and url for a document specified in another service.
+
+_For instance: wordpess.com uses the privacy policy from their parent company, Automattic. So we have: `"fulltos":{"privacy":{"service":"automattic"},"etc.":""}` in wordpress-com.json; and we have `"fulltos":{"privacy":{"name":"Privacy Policy","url":"http://automattic.com/privacy/"},"etc.":""}` in automattic.json. So when we refer somewhere to wordpress.com's privacy policy, it will point to automattic's privacy policy._
+
+## tosdr
+
+This is where the ToS;DR rating lies
+
+## tosdr > rated
+
+it can be `false` or `"A"`, `"B"`, `"C"`, `"D"`, or `"E"`
+
 ## keywords
 
 Array to refer to keywords commonly used to refer to that service. Useful for showing similar services and for search purposes
@@ -46,27 +78,14 @@ _For instance: wordpress.com is owned/run by "automattic" and diasp.org is based
 
 The alexa.com ranking for the service. We use it to order services from most visited to less. 
 
-## fulltos
-
-    `"fulltos": {
-        "privacy": {
-          "service": "automattic",
-        }, 
-        "tosback2": "akismet.com", 
-        "terms": {
-            "name": "Terms of Use", 
-            "url": "https://akismet.com/tos/"
-        }
-    },` 
-
-## tosdr
-    `"tosdr": {
-        "rated": false
-    },
-}`
-
 ## dataexport
+
+can be `true` or `false` if there's a way to get user data out of the service in an open format.
 
 ## freesoftware
 
+can be `true` or `false` if they give you access to the source code run by the service under a free software license (FSF or OSI approved). 
+
 ## license
+
+Under which license is the software distributed (only for "type":"software"). Follow the debian notation standard: http://dep.debian.net/deps/dep5/#license-specification
