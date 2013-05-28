@@ -72,7 +72,7 @@ When a point is raising controversy among contributors, we want to catch attenti
 
 When a point is dismissed as "irrelevant" or set to "disputed" please provide a rationale or a link, if this isn't obvious.
 
-### sources
+## sources
 
 This should point to a source about the point. Not implemented yet.
 
