@@ -58,7 +58,7 @@ From `0` to `100`. The higher it is, the more important it is. This has 2 conseq
 
 This is the summary, the recap of what the clause in the terms do. It is usually a very difficult exercise. Try not to make more than 5 sentences, but sometimes more is needed. Be creative. Feel free to include some quotes from the terms directly. It is very important that it is easy to understand and written in plain English. Do not hesitate to include links in HTML. (Don't forget to escape characters!)
 
-_For instance: `"They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."`
+_For instance: `"They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."`_
 
 ### tosdr > irrelevant
 
