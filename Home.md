@@ -1,1 +1,1 @@
-Spec: https://github.com/tosdr/tosdr.org/wiki/Specification:-services
+Index: https://github.com/tosdr/tosdr.org/wiki/_pages
