@@ -76,6 +76,10 @@ When a point is dismissed as "irrelevant" or set to "disputed" please provide a 
 
 This should point to a source about the point. Not implemented yet.
 
+## binding
+
+Can be true or false. When "true" it means the point is binding and contractual. When "false" it means that the point is about something else. It's not necessarily binding or contractual, but it's still important enough that we think people should be aware.
+
 ## meta
 
 Meta information
