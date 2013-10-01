@@ -62,7 +62,7 @@ _For instance: `"They can change the terms of service any time they see fit, but
 
 ### tosdr > case
 
-An optional short text label that you can use to indicate that multiple points within the same topic have been given the same score, because they are comparable. For instance "they notify you of changes, but not only 14 days notice or less". This is a tool to make it easier to give fair points in comparable cases. Points that belong to the same `tosdr > case` always get the same `tosdr > point` and the same `tosdr > score`.
+An optional short text label that you can use to indicate that multiple points within the same topic have been given the same score, because they are comparable. For instance "they notify you of changes, but with only 14 days notice or less". This is a tool to make it easier to give fair points in comparable cases. Points that belong to the same `tosdr > case` should always get the same `tosdr > point` and the same `tosdr > score`.
 
 ### tosdr > irrelevant
 
