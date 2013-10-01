@@ -60,6 +60,10 @@ This is the summary, the recap of what the clause in the terms do. It is usually
 
 _For instance: `"They can change the terms of service any time they see fit, but they will notify the user. Your use of the service supposedly constitutes acceptance of the changes in the terms."`_
 
+### tosdr > case
+
+An optional short text label that you can use to indicate that multiple points within the same topic have been given the same score, because they are comparable. For instance "they notify you of changes, but not only 14 days notice or less". This is a tool to make it easier to give fair points in comparable cases. Points that belong to the same `tosdr > case` always get the same `tosdr > point` and the same `tosdr > score`.
+
 ### tosdr > irrelevant
 
 When a point is dismissed as irrelevant, set irrelevant as `true`. That means the point will not appear anywhere and not influence anything. This is used when something is outdated, or duplicated, or mentions something irrelevant to what ToS;DR does.
