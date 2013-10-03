@@ -9,12 +9,11 @@ In this example, the topic maybe 'take-down requests', and the 'case' that would
 * business-transfer
   * may sell your data in merger → bad (20)
   * will notify before merger → good (20)
-* changes
-  * user involvement
-    * little → bad (35)
-    * feedback invited → good (20)
-  * notice
-    * user needs to rely on tosback.org → bad (70)
-    * user is notified on the day → bad (50)
-    * user is notified a week or more in advance → good (30)
-    * user is notified a month or more in advance → good (40)
+* changes-involvement
+  * little → bad (35)
+  * feedback invited → good (20)
+* changes-notice
+  * user needs to rely on tosback.org → bad (70)
+  * user is notified on the day → bad (50)
+  * user is notified a week or more in advance → good (30)
+  * user is notified a month or more in advance → good (40)
