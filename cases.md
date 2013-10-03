@@ -14,6 +14,6 @@ In this example, the topic maybe 'take-down requests', and the 'case' that would
   * feedback invited → good (20)
 * changes-notice
   * user needs to rely on tosback.org → bad (70)
-  * user is notified on the day → bad (50)
+  * user is notified on the day → neutral (0)
   * user is notified a week or more in advance → good (30)
   * user is notified a month or more in advance → good (40)
