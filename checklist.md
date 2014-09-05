@@ -10,3 +10,4 @@ Before we assign a class to a service, we should check whether the following top
 * How do they handle decisions about suspension of your account when they feel you breached the terms?
 * Do they (try to) prohibit you from going to court against them?
 * What happens to your data when they get acquired or when they shut down the service?
+* How long do they keep your private data and what do they use it for?
