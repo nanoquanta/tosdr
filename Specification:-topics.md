@@ -1,4 +1,4 @@
-Version 1. 2014-09-28
+Version 1.1. 2014-10-2
 
 ## id 
 
@@ -33,3 +33,12 @@ Can be `"topic"` or `"category"`. Categories are usually broad topics with many 
 When a topic belongs to a category, use the category's "id" to refer to it.
 
 _For instance: `"category": "governance"` for the "jurisdiction-law" topic._
+
+## meta
+
+Meta information
+
+### meta > spec-version
+
+Which version of this spec the file is using. (Useful to maintain API versioning).
+

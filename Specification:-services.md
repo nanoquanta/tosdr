@@ -1,4 +1,4 @@
-Version 1. 2014-09-28
+Version 1.1. 2014-10-2
 
 See json files in the services directory.
 
@@ -93,3 +93,11 @@ can be `true` or `false` if they give you access to the source code run by the s
 ## license
 
 Under which license is the software distributed (only for "type":"software"). Follow the debian notation standard: http://dep.debian.net/deps/dep5/#license-specification
+
+## meta
+
+Meta information
+
+### meta > spec-version
+
+Which version of this spec the file is using. (Useful to maintain API versioning).

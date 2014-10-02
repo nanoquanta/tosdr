@@ -1,4 +1,4 @@
-Version 1. 2014-09-28
+Version 1.1. 2014-10-2
 
 See json files in the points directory
 
@@ -89,6 +89,10 @@ Can be true or false. When "true" it means the point is binding and contractual.
 ## meta
 
 Meta information
+
+### meta > spec-version
+
+Which version of this spec the file is using. (Useful to maintain API versioning).
 
 ### meta > author
 
