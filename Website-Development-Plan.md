@@ -15,7 +15,7 @@ The application distinguishes three type of website users: viewers, reviewers, a
 * Reviewers are logged-in users. Anybody can sign up and become a reviewer to:
   * submit new points,
   * propose the creation of new services and topics if they feel these are missing
-  * comment on existing points, services, and topics if they feel they should be maybe be edited.
+  * comment on existing points, services, and topics if they feel they should maybe be edited.
 * Moderators are members of the ToS;DR core team and have more privileges than reviewers. They can:
   * approve a point, service, or topic submission,
   * edit and approve a point, service, or topic submission,
