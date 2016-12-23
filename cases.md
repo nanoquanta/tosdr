@@ -4,4 +4,4 @@ When giving a score to each point in a topic, you (as a reviewer/curator) will o
 
 In this example, the topic maybe 'take-down requests', and the 'case' that would apply here to both the MySpace and the Facebook point in this topic would be something like "yes, but with 24 hours notice" -> "good (20)".
 
-Cases are defined in [`scripts/cases.js`](https://github.com/tosdr/tosdr.org/blob/master/scripts/cases.js).
+Cases are defined in [`scripts/cases.js`](https://github.com/tosdr/tosdr-build/blob/master/scripts/cases.js) in the gh:tosdr/tosdr-build repo.
