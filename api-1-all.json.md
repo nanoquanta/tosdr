@@ -1,7 +1,7 @@
 # UNDER CONSTRUCTION
-## This API is still under construction, and will be frozen when https://github.com/tosdr/tosdr-firefox starts relying on it.
+## This API resource is still under construction, and will be frozen when https://github.com/tosdr/tosdr-firefox starts relying on it.
 
-For now, there is only one file the V2 API: https://tosdr.org/api/2/all.json
+You can see its current state here: https://tosdr.org/api/1/all.json
 
 It is a JSON-encoded object that contains the following keys:
 
