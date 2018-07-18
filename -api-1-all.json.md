@@ -7,7 +7,7 @@ It is a JSON-encoded object that contains the following keys:
 
 ## tosdr/api/version
 
-Always `2`.
+Always `1`.
 
 ## tosdr/data/version
 
@@ -43,10 +43,10 @@ The ToS;DR review rating of this service. One of 'A', 'B', 'C', 'D', 'E', or `fa
 
 An array of review points (i.e. individual positive/neutral/negative remarks about the terms of this service), in which each element contains:
 
-* short (a short text to display as a title, say 1 line of text)
-* long (a longer text to display as a paragraph in addition to the title, say 5 lines of text)
+* title (a short text to display for this review point, say 1 line of text)
+* description (a longer text to display as a paragraph in addition to the title, say 5 lines of text)
 * discussion (URL at which this point can be discussed with other reviewers)
-* icon (one of 'good', 'neutral', 'bad', 'blocker')
+* point (one of 'good', 'neutral', 'bad', 'blocker')
 * score (number [0..100], the higher the score, the more important this point)
 * privacyRelated (true or false, used to decide whether this point should influence DuckDuckGo's Privacy Grade or not)
 
